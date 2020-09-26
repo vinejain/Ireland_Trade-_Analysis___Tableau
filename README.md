@@ -1,4 +1,5 @@
 # Analysis of Ireland’s import-export trades over the period of 1992 to 2017
+# Owner: Vineet Jain
 
 Data gathered from World Bank’s website. Parameters such as GDP, commodities, trade balance, import/export partners, growth rate were considered. Findings show export trades have a substantial impact on Ireland’s economic growth.
 
