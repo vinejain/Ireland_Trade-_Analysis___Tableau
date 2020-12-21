@@ -5,4 +5,4 @@ Data gathered from World Bank’s website. Parameters such as GDP, commodities, 
 
 Tableau Public Workbook: https://public.tableau.com/views/TradeAnalysisDashboard/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 
-
+![alt text](https://github.com/vinejain/tableau-viz-ireland-international-trade/blob/master/dashboard-image/Dashboard%201.png?raw=true)
